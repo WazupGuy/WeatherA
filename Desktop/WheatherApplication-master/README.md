@@ -1,17 +1,25 @@
-
 ## Application Météo 🌦️
-Une application météo avec un compte utilisateur construit en Java. 
-Les données météorologiques sont alimentées par l'API OpenWeatherMap.
+Une application météo avec un compte utilisateur développé en Java. 
+Les données météos sont alimentées par l'API OpenWeatherMap.
 
+## Participants
+ * Mistry Darshan
+ * Tanguy Thomas
+ * Morouche Lina
 
+## Besoins
+* Android studio last version
+* JDK 11
+* Android SDK 32
+* Java version 11
+* Supports API Level +21
+  
 ## Ressources 
-Retrieve weather data:
+BDD météo :
 **OpenWeatherMap**: https://openweathermap.org/ne 
 
-
 ## Fonctionnalités
-- 🌦 Gives the weather situation of the day:
-  Donne la situation météorologique du jour :
+- Donne la situation météorologique du jour :
   - **Température** *(en °C)*
   - **Température ressentie** *(en °C)*
   - **Humidité** *(en %)*
@@ -27,19 +35,6 @@ Retrieve weather data:
 - 🛑 Application sécurisée et privée avec un accès personnalisé pour chaque utilisateur via une adresse e-mail et un mot de passe.
 
 - 🌐 Application coder en anglais avec un visual en français 
-
-## Besoins
-* Android studio last version
-* JDK 11
-* Android SDK 32
-* Java version 11
-* Supports API Level +21
-* Taille de la machine virtuelle : 1440 x 3040 ou 1080 x 2160
-
-## Participants
- * Mistry Darshan
- * Tanguy Thomas
- * Morouche Lina
 
 ## Screenshoots 
  * Ils sont dans le dossier WheatherApplication-master.
